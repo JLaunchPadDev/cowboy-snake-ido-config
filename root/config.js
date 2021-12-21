@@ -6,5 +6,5 @@
   "end_waiting_claim": "Dec 20 2021 21:25:00 GMT",
   "count_round_1": 1000,
   "count_round_2": 2500,
-  "next_day_claim": 30
+  "next_day_claim": 10
 }
