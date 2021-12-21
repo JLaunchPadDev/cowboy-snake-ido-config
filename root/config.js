@@ -1,5 +1,5 @@
 {
-  "isCheckWhiteList": 1,
+  "isCheckWhiteList": 0,
   "start":             "Dec 21 2021 07:00:00 GMT",
   "end_round_1":       "Dec 21 2021 07:00:00 GMT",
   "end_round_2":       "Dec 23 2021 21:20:00 GMT",
